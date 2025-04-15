@@ -87,7 +87,6 @@
 
 ## `// C U R R E N T // M I S S I O N S //`
 
-*(Showcase 2-3 key projects. Use GIFs for demos if possible!)*
 
 <div align="center">
   <table border="0" cellpadding="10">
@@ -145,7 +144,7 @@
 
 <div align="center">
   <p>Establish a secure connection through the following nodes:</p>
-  <a href="[Your LinkedIn Profile URL]" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
+  <a href="https://www.linkedin.com/in/khan-raza/" target="_blank"><img src="https://img.shields.io/badge/LinkedIn-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>&nbsp;
   <a href="[Your Portfolio URL]" target="_blank"><img src="https://img.shields.io/badge/Portfolio-%23000000.svg?&style=for-the-badge&logo=firefox&logoColor=white" alt="Portfolio"/></a>&nbsp;
 </div>
 
