@@ -92,20 +92,55 @@
   <table border="0" cellpadding="10">
     <tr valign="top">
       <td width="50%">
-        <h3>🚀 [Project Name 1]</h3>
+        <h3>🗣️ AI Interview Live Assistant 🤖</h3>
         <img src="[Link to Project Demo GIF or Image]" alt="[Project 1 Demo]" width="100%"/>
-        <p align="left">[Brief description of Project 1. What problem does it solve? What tech stack?]</p>
+        <p align="left">
+• Developed a real-time interview support tool to enhance candidate and interviewer effectiveness.<br/>
+• Implemented live transcription and leveraged the OpenAI API for contextual conversation analysis.<br/>
+• Analyzed conversations against resume, job description, and prior experience to provide instant insights.<br/>
+• Delivered relevant follow-up questions to the interviewer in real-time.<br/>
+• Utilized Next.js for frontend/backend and PostgreSQL for storing user data and interview context.
+</p>
         <p align="center">
-          <a href="[Link to Project Repo]"><img src="https://img.shields.io/badge/Code-Repo-blue?style=for-the-badge&logo=github" alt="Repo"/></a>
+          <a href="https://github.com/KhanRazaIlahi/Projects-Portfolio"><img src="https://img.shields.io/badge/Code-Repo-blue?style=for-the-badge&logo=github" alt="Repo"/></a>
           <a href="[Link to Live Demo/Site]"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=rocket" alt="Live Demo"/></a>
         </p>
       </td>
       <td width="50%">
-        <h3>🌌 [Project Name 2]</h3>
+        <h3>🌌 AI Mock Interview 🎭</h3>
+         <img src="[Link to Project Demo GIF or Image]" alt="[Project 2 Demo]" width="100%"/>
+<p align="left">
+•  Spearheaded end-to-end development and integration of an AI Mock Interview feature on a React/Next.js platform.<br/>
+•  Enabled realistic interview simulations with role-specific questions powered by Gemini AI.<br/>
+•  Developed core AI logic to generate tailored questions based on job roles, experience, and tech stacks.<br/>
+•  Integrated recording and AI-powered feedback mechanisms to facilitate user learning and improvement.
+</p>         <p align="center">
+          <a href="https://github.com/KhanRazaIlahi/Projects-Portfolio"><img src="https://img.shields.io/badge/Code-Repo-blue?style=for-the-badge&logo=github" alt="Repo"/></a>
+          <a href="[Link to Live Demo/Site]"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=rocket" alt="Live Demo"/></a>
+        </p>
+      </td>
+    </tr>
+    <tr valign="top">
+      <td width="50%">
+        <h3>🚀 IMDb Movie Popularity Prediction 🎬 </h3>
+        <img src="[Link to Project Demo GIF or Image]" alt="[Project 1 Demo]" width="100%"/>
+        <p align="left">
+• Leveraged Python and Pandas to efficiently ingest, clean, and transform the IMDb dataset (CSV format), preparing it for robust machine learning analysis.<br/>
+• Developed a suite of binary popularity prediction models utilizing Scikit-learn, including Random Forest, Support Vector Machine (SVM), K-Nearest Neighbors (KNN), and Decision Tree classifiers to evaluate predictive performance.<br/>
+• Conducted comprehensive statistical analysis encompassing correlation and feature analysis to understand data relationships, and applied K-Means clustering to identify inherent patterns within the IMDb dataset.<br/>
+• Significantly optimized the Decision Tree model through meticulous hyperparameter tuning using GridSearchCV, resulting in a notable predictive accuracy of 82%.
+</p>
+        <p align="center">
+          <a href="https://github.com/KhanRazaIlahi/IMDb-Movie-Popularity-Prediction"><img src="https://img.shields.io/badge/Code-Repo-blue?style=for-the-badge&logo=github" alt="Repo"/></a>
+          <a href="https://github.com/KhanRazaIlahi/IMDb-Movie-Popularity-Prediction/blob/main/Machine_Learning_Project.ipynb"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=rocket" alt="Live Demo"/></a>
+        </p>
+      </td>
+      <td width="50%">
+        <h3>🌌 [Project Name 4]</h3>
          <img src="[Link to Project Demo GIF or Image]" alt="[Project 2 Demo]" width="100%"/>
         <p align="left">[Brief description of Project 2. Highlight a unique feature or challenge.]</p>
          <p align="center">
-          <a href="[Link to Project Repo]"><img src="https://img.shields.io/badge/Code-Repo-blue?style=for-the-badge&logo=github" alt="Repo"/></a>
+          <<a href="[Link to Project Repo]"><img src="https://img.shields.io/badge/Code-Repo-blue?style=for-the-badge&logo=github" alt="Repo"/></a>
           <a href="[Link to Live Demo/Site]"><img src="https://img.shields.io/badge/Live-Demo-brightgreen?style=for-the-badge&logo=rocket" alt="Live Demo"/></a>
         </p>
       </td>
