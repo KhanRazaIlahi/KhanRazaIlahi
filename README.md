@@ -150,31 +150,6 @@
 
 ---
 
-
-
-
-<summary><code> G L O B A L // S T A T S </code></summary>
-
- <div style={{ display: 'flex', flexDirection: 'row', justifyContent: 'center', alignItems: 'center', gap: '10px' }}>
-  <img
-    src="https://github-readme-stats.vercel.app/api?username=KhanRazaIlahi&show_icons=true&theme=radical&rank_icon=github&border_radius=10&hide_border=true"
-    alt="KhanRazaIlahi's GitHub Stats"
-    style={{ maxWidth: '30%', height: 'auto' }}
-  />
-  <img
-    src="https://github-readme-streak-stats.herokuapp.com/?user=KhanRazaIlahi&theme=radical&border_radius=10&hide_border=true"
-    alt="KhanRazaIlahi's GitHub Streak Stats"
-    style={{ maxWidth: '30%', height: 'auto' }}
-  />
-  <img
-    src="https://github-readme-stats.vercel.app/api/top-langs/?username=KhanRazaIlahi&layout=compact&theme=radical&border_radius=10&hide_border=true"
-    alt="Top Languages"
-    style={{ maxWidth: '30%', height: 'auto' }}
-  />
-</div>
-
----
-
 ## `// C O N N E C T // C H A N N E L S //`
 
 <div align="center">
